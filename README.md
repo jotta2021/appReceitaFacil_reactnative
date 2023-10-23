@@ -7,9 +7,9 @@ Bem-vindo ao Receita Fácil App! Este é um aplicativo desenvolvido em React Nat
 
 
    <image width="200" src='https://github.com/jotta2021/appReceitaFacil_reactnative/blob/master/Imagem%20do%20WhatsApp%20de%202023-10-22%20%C3%A0(s)%2021.36.14_201bfabf.jpg?raw=true'/>
-    <image src='https://github.com/jotta2021/appReceitaFacil_reactnative/blob/master/Imagem%20do%20WhatsApp%20de%202023-10-22%20%C3%A0(s)%2021.36.12_a4622697.jpg?raw=true'/>
-       <image src='https://github.com/jotta2021/appReceitaFacil_reactnative/blob/master/Imagem%20do%20WhatsApp%20de%202023-10-22%20%C3%A0(s)%2021.36.13_a195a92c.jpg?raw=true'/>
-       <image src='https://github.com/jotta2021/appReceitaFacil_reactnative/blob/master/Imagem%20do%20WhatsApp%20de%202023-10-22%20%C3%A0(s)%2021.36.13_3025cb7c.jpg?raw=true'/>
+    <image  width="200" src='https://github.com/jotta2021/appReceitaFacil_reactnative/blob/master/Imagem%20do%20WhatsApp%20de%202023-10-22%20%C3%A0(s)%2021.36.12_a4622697.jpg?raw=true'/>
+       <image  width="200" src='https://github.com/jotta2021/appReceitaFacil_reactnative/blob/master/Imagem%20do%20WhatsApp%20de%202023-10-22%20%C3%A0(s)%2021.36.13_a195a92c.jpg?raw=true'/>
+       <image   width="200" src='https://github.com/jotta2021/appReceitaFacil_reactnative/blob/master/Imagem%20do%20WhatsApp%20de%202023-10-22%20%C3%A0(s)%2021.36.13_3025cb7c.jpg?raw=true'/>
        
        
 </div>
